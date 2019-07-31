@@ -20,7 +20,7 @@
 另外：
     词向量可视化测试代码：visualization_test.py
     《笑傲江湖》数据预处理：笑傲江湖data_process.py
-    《笑傲江湖》可视化：笑傲江湖visualization.py
+    《笑傲江湖》词向量训练及可视化：笑傲江湖visualization.py
 
 
 注：数据和训练模型太大没有上传    wiki百科数据需自己去下载。
