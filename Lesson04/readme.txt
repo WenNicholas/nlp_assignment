@@ -1,5 +1,4 @@
-﻿
-#基于中文维基百科的词向量构建及可视化
+基于中文维基百科的词向量构建及可视化
 详见博客：https://blog.csdn.net/weixin_40547993/article/details/97781179
 
 主要包括三部分：数据预处理、word2vec词向量训练、可视化
@@ -21,10 +20,9 @@
 另外：
     词向量可视化测试代码：visualization_test.py
     《笑傲江湖》数据预处理：笑傲江湖data_process.py
-    《笑傲江湖》词向量训练及可视化：笑傲江湖visualization.py
+    《笑傲江湖》可视化：笑傲江湖visualization.py
 
-
-注：数据和训练模型太大没有上传    wiki百科数据需自己去下载 。
-
-
-具体效果及训练步骤详解见我的博客：https://blog.csdn.net/weixin_40547993/article/details/97781179
+增量训练：
+    Incremental_train1.py 增量训练方法一：代码主要是读取本地分词后的文件，对新增大语料进行增量训练，用本方法为宜
+    Incremental_train2.py 增量训练方法二：代码主要是进行词向量增量训练，可以直接对新的语料实现在线分词并进行增量训练，不过这里也把分词后的文本存储到了本地。是否进行增量训练通过设置参数 incremental
+                          一般小语料可以在线分词训练，对于大语料，建议存储到本地，再读取进行训练为宜
