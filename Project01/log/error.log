@@ -1,0 +1,15 @@
+2019-08-28 13:55:28,320 - get_keyword_Extract - 50- root - ERROR - name 'prefix1' is not defined
+2019-08-28 16:32:07,192 - __init__ - 27- root - ERROR - 数据库连接错误:could not receive data from server: Software caused connection abort (0x00002745/10053)
+
+2019-08-28 16:32:07,193 - getdata - 20- root - ERROR - could not receive data from server: Software caused connection abort (0x00002745/10053)
+
+2019-08-28 16:33:01,987 - __init__ - 27- root - ERROR - 数据库连接错误:could not receive data from server: Software caused connection abort (0x00002745/10053)
+
+2019-08-28 16:33:01,988 - getdata - 20- root - ERROR - could not receive data from server: Software caused connection abort (0x00002745/10053)
+
+2019-08-28 16:34:38,394 - __init__ - 27- root - ERROR - 数据库连接错误:could not send data to server: Software caused connection abort (0x00002745/10053)
+could not send startup packet: Software caused connection abort (0x00002745/10053)
+
+2019-08-28 16:34:38,395 - getdata - 21- root - ERROR - could not send data to server: Software caused connection abort (0x00002745/10053)
+could not send startup packet: Software caused connection abort (0x00002745/10053)
+

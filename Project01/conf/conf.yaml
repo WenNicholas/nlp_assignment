@@ -1,0 +1,11 @@
+postgresqlParam:
+    USER: root
+    PWD: AI@2019@ai
+    HOST: rm-8vbwj6507z6465505ro.mysql.zhangbei.rds.aliyuncs.com
+    PORT: 3306
+    NEWSDBNAME: stu_db
+    doc_type_news: news_chinese
+
+
+
+

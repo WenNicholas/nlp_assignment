@@ -1,0 +1,98 @@
+2019-08-28 13:54:32,693 - _log - 88- werkzeug - INFO -  * Running on http://0.0.0.0:8056/ (Press CTRL+C to quit)
+2019-08-28 13:55:28,320 - get_keyword_Extract - 50- root - ERROR - name 'prefix1' is not defined
+2019-08-28 13:55:28,321 - _log - 88- werkzeug - INFO - 127.0.0.1 - - [28/Aug/2019 13:55:28] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 13:57:02,144 - _log - 88- werkzeug - INFO -  * Running on http://0.0.0.0:8056/ (Press CTRL+C to quit)
+2019-08-28 13:57:19,457 - _log - 88- werkzeug - INFO - 127.0.0.1 - - [28/Aug/2019 13:57:19] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 14:03:47,203 - _log - 88- werkzeug - INFO -  * Running on http://0.0.0.0:8056/ (Press CTRL+C to quit)
+2019-08-28 14:03:52,000 - _log - 88- werkzeug - INFO - 127.0.0.1 - - [28/Aug/2019 14:03:52] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 14:52:24,004 - _log - 88- werkzeug - INFO -  * Running on http://0.0.0.0:8056/ (Press CTRL+C to quit)
+2019-08-28 14:52:33,855 - _log - 88- werkzeug - INFO - 127.0.0.1 - - [28/Aug/2019 14:52:33] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:06:31,291 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:06:31] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 15:06:31,296 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:06:31] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:06:31,299 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:06:31] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
+2019-08-28 15:06:37,934 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:06:37] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:07:40,680 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:07:40] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:07:40,694 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:07:40] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 15:07:40,706 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:07:40] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:07:51,339 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:07:51] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
+2019-08-28 15:12:17,618 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:12:17] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:12:17,630 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:12:17] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:12:17,639 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:12:17] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 15:12:28,075 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:12:28] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
+2019-08-28 15:14:57,483 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:14:57] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:14:57,490 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:14:57] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 15:14:57,498 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:14:57] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:15:07,690 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:15:07] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
+2019-08-28 15:21:51,102 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:21:51] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:21:51,110 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:21:51] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 15:21:51,120 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:21:51] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:22:01,741 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:22:01] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
+2019-08-28 15:22:35,430 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:22:35] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:22:35,436 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:22:35] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 15:22:35,444 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:22:35] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:22:45,469 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:22:45] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
+2019-08-28 15:23:00,888 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:23:00] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:23:00,897 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:23:00] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:23:00,903 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:23:00] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 15:23:11,262 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:23:11] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
+2019-08-28 15:29:25,807 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:29:25] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:29:25,813 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:29:25] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 15:29:25,834 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:29:25] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:29:35,512 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:29:35] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:29:35,515 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:29:35] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:29:35,516 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:29:35] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 15:29:35,518 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:29:35] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
+2019-08-28 15:29:36,507 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:29:36] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
+2019-08-28 15:30:07,275 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:30:07] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:30:07,277 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:30:07] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 15:30:07,280 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:30:07] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:30:07,282 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:30:07] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
+2019-08-28 15:30:21,740 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:30:21] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 15:30:21,749 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:30:21] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:30:21,757 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:30:21] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:30:31,631 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:30:31] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
+2019-08-28 15:30:41,808 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:30:41] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:30:41,810 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:30:41] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 15:30:41,813 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:30:41] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:30:41,815 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:30:41] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
+2019-08-28 15:30:54,217 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:30:54] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:30:54,223 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:30:54] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 15:30:54,240 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:30:54] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:31:04,306 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:31:04] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 15:31:04,320 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:31:04] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:31:04,417 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:31:04] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:31:05,757 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:31:05] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
+2019-08-28 15:31:15,435 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:31:15] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
+2019-08-28 15:31:40,846 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:31:40] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 15:31:40,851 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:31:40] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:31:40,866 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:31:40] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:31:50,946 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:31:50] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
+2019-08-28 15:32:14,698 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:32:14] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:32:15,043 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:32:15] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 15:32:15,052 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:32:15] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 15:32:25,308 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 15:32:25] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
+2019-08-28 16:23:07,145 - _log - 88- werkzeug - INFO -  * Running on http://0.0.0.0:8056/ (Press CTRL+C to quit)
+2019-08-28 16:24:08,144 - _log - 88- werkzeug - INFO -  * Running on http://0.0.0.0:8056/ (Press CTRL+C to quit)
+2019-08-28 16:32:07,192 - __init__ - 27- root - ERROR - 数据库连接错误:could not receive data from server: Software caused connection abort (0x00002745/10053)
+
+2019-08-28 16:32:07,193 - getdata - 20- root - ERROR - could not receive data from server: Software caused connection abort (0x00002745/10053)
+
+2019-08-28 16:33:01,987 - __init__ - 27- root - ERROR - 数据库连接错误:could not receive data from server: Software caused connection abort (0x00002745/10053)
+
+2019-08-28 16:33:01,988 - getdata - 20- root - ERROR - could not receive data from server: Software caused connection abort (0x00002745/10053)
+
+2019-08-28 16:34:38,394 - __init__ - 27- root - ERROR - 数据库连接错误:could not send data to server: Software caused connection abort (0x00002745/10053)
+could not send startup packet: Software caused connection abort (0x00002745/10053)
+
+2019-08-28 16:34:38,395 - getdata - 21- root - ERROR - could not send data to server: Software caused connection abort (0x00002745/10053)
+could not send startup packet: Software caused connection abort (0x00002745/10053)
+
+2019-08-28 16:59:21,685 - _log - 88- werkzeug - INFO -  * Running on http://0.0.0.0:8056/ (Press CTRL+C to quit)
+2019-08-28 16:59:33,525 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 16:59:33] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 16:59:33,528 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 16:59:33] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 16:59:33,884 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 16:59:33] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 16:59:42,193 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 16:59:42] "[37mPOST /System/speechExtract HTTP/1.1[0m" 200 -
+2019-08-28 16:59:42,222 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 16:59:42] "[37mPOST /System/keywordExtract HTTP/1.1[0m" 200 -
+2019-08-28 16:59:42,230 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 16:59:42] "[37mPOST /System/wordCloud HTTP/1.1[0m" 200 -
+2019-08-28 16:59:45,967 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 16:59:45] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
+2019-08-28 16:59:55,040 - _log - 88- werkzeug - INFO - 192.168.22.153 - - [28/Aug/2019 16:59:55] "[37mPOST /System/semanticSimilarity HTTP/1.1[0m" 200 -
