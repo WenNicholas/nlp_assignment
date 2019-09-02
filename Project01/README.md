@@ -1,8 +1,8 @@
-本项目主要包括是 新闻人物言论提取 关键词提取 语义联想 词云四个模块，未来将继续迭代NER，文本摘要、文本分类等模块
+本项目主要包括是 新闻人物言论提取 关键词提取 语义联想 词云四个模块，未来将继续迭代NER，文本摘要、情感分类等模块
 本项目采取前后端分离开发，前端代码链接：https://github.com/BigErrors/NPSE  
                           后端采用Flask框架
 
-一、新闻人物言论提取（在speech_extraction文件夹下）  
+一、新闻人物言论提取
 .\my_project\speech_extraction\speechExtract.py                     
 实施步骤：
 1. 加载语料库
@@ -35,11 +35,6 @@
 .\my_project\word_statics.py
 
 前端链接：https://github.com/BigErrors/NPSE
-
-
-
-
-
 
 
 
