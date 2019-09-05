@@ -7,4 +7,4 @@
 中文聚类语料为：
 corpus.xlsx中有6万的司法调解协议书进行聚类 数据未上传
 
-具体聚类效果见result文件夹里面的结果：LDA主题聚类，LSI聚类，Kmeans聚类
+具体聚类效果见result文件夹里面的结果：LDA主题聚类，LSI聚类，Kmeans聚类。
